@@ -10,7 +10,7 @@ For each Rx-Tx couple, 5 different layered medium Green's functions are recorded
 real(Gxx) imag(Gxx) real(Gxy) imag(Gxy) real(Gyy) imag(Gyy) real (Gzx) imag(Gzx) real(Gzz) Imag(Gzz)
 The last four columns list the relative permittivity of the layers from 1 to 4.
 
-Training datasets have N rows, where N = ns^4. and ns is the number of samples permittivity values chosen between 1 and 10.
+Training datasets have N rows, where N changes between 8^4 and 18^4.
 
 Test datasets have 1000 examples in all cases. The number of columns is same as the one in training datasets.
 
