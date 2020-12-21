@@ -3,7 +3,7 @@ Datasets and jupyter notebooks for one-dimensional electromagnetic inversion.
 The csv files with a filesize 25-35 MB are zipped, please unzip them.
 The traning datasets (csv files) with bigger sizes are split into multiple files. They need to be merged and renamed to be used with the provided notebooks, please see the README file for such cases.
 
-All the training datasets have nr*nt*10+4 columns.
+All the training datasets have $n_r \times n_t\times 10+4$ columns.
 nr: number of receiver antennas (Rx)
 nt: number of transmitter antennas (Tx)
 For each Rx-Tx couple, 5 different layered medium Green's functions are recorded: Gxx, Gxy, Gyy, Gzx, and Gzz. They are stored as 
