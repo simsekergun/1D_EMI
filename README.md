@@ -1,4 +1,4 @@
-# 1D_EMI
+# ODEMI (One-Dimensional Electromagnetic Inversion) Dataset
 Datasets and jupyter notebooks for one-dimensional electromagnetic inversion.
 The csv files with a filesize 25-35 MB are zipped, please unzip them.
 The traning datasets (csv files) with bigger sizes are split into multiple files. They need to be merged and renamed to be used with the provided notebooks, please see the README file for such cases.
