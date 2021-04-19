@@ -15,3 +15,7 @@ Training datasets have N rows, where N changes between 8^4 and 18^4.
 Test datasets have 1000 examples in all cases. The number of columns is same as the one in training datasets.
 
 The pdf version of the manuscsript will be shared soon to provided all the details.
+
+Please read my paper explaining this dataset
+https://doi.org/10.1109/TAP.2021.3069519
+and cite it if you use this dataset. Thank you.
